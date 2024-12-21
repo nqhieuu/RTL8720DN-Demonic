@@ -46,7 +46,7 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
   - VCC -> 3v3
   - GND -> GND
   - Lên -> PA27
-  - Xuống _> PA12
+  - Xuống -> PA12
   - Chọn -> PA13
 
 ## **Sử Dụng**
