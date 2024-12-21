@@ -38,7 +38,7 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
   - Nút bấm
 
 - **Phần Mềm:**
-  - Demonic
+  - **Demonic**
 
 - **Sơ Đồ Kết Nối**
   - **SDA:** PA26
