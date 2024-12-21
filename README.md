@@ -53,8 +53,7 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
 - **Attack** tấn công
 
 <div align="center">
-  <img src="https://github.com/nqhieuu/RTL8720DN-Demonic/blob/main/IMG_1.jpeg" alt="RTL8720DN-Demonic">
-  <h3 align="center">Jamming is ILLEGAL! Educational purposes only!</h3>
+  <img src="https://github.com/nqhieuu/RTL8720DN-Demonic/blob/main/IMG_1.jpeg" alt="RTL8720DN-Demonic" width="500" height="300">
 </div>
 
 ## **Góp Ý và Phát Triển**
