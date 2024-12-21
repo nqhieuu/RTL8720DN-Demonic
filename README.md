@@ -34,20 +34,23 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
 ## **Yêu Cầu Hệ Thống**
 - **Phần Cứng:**
   - RTL8720DN (BW16)
-  - Màn Hình Oled 0.96 inch (IIC)
+  - SSD1306 Oled 0.96 inch (IIC)
   - Nút bấm
 
 - **Phần Mềm:**
   - Demonic
 
 ## **Sơ Đồ Kết Nối**
-- **Phần Cứng:**
-  - RTL8720DN (BW16)
-  - Màn Hình Oled 0.96 inch (IIC)
-  - Nút bấm
+- **RTL8720DN với SSD1306:**
+  - **SDA:** PA26
+  - **SCL:** PA22
+  - **VCC:** 3v3
+  - **GND:** GND
 
-- **Phần Mềm:**
-  - Demonic
+- **RTL8720DN với nút bấm:**
+  - **Lên:** PA27
+  - **Xuống:** PA12
+  - **Chọn:** PA13
 
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
