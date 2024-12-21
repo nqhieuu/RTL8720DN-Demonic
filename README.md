@@ -41,13 +41,13 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
   - **Demonic**
 
 - **Sơ Đồ Kết Nối**
-  - **SDA:** PA26
-  - **SCL:** PA22
-  - **VCC:** 3v3
-  - **GND:** GND
-  - **Lên:** PA27
-  - **Xuống:** PA12
-  - **Chọn:** PA13
+  - SDA -> PA26
+  - SCL -> PA22
+  - VCC -> 3v3
+  - GND -> GND
+  - Lên -> PA27
+  - Xuống _> PA12
+  - Chọn -> PA13
 
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
