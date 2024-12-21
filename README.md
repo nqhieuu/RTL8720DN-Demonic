@@ -40,17 +40,17 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
 - **Phần Mềm:**
   - Demonic
 
-## **Sơ Đồ Kết Nối**
-- **RTL8720DN với SSD1306:**
-  - **SDA:** PA26
-  - **SCL:** PA22
-  - **VCC:** 3v3
-  - **GND:** GND
+- **Sơ Đồ Kết Nối**
+-- **RTL8720DN với SSD1306:**
+  --- **SDA:** PA26
+  --- **SCL:** PA22
+  --- **VCC:** 3v3
+  --- **GND:** GND
 
-- **RTL8720DN với nút bấm:**
-  - **Lên:** PA27
-  - **Xuống:** PA12
-  - **Chọn:** PA13
+-- **RTL8720DN với nút bấm:**
+  --- **Lên:** PA27
+  --- **Xuống:** PA12
+  --- **Chọn:** PA13
 
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
