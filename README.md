@@ -1,5 +1,7 @@
 # **RTL8720DN DEMONIC**
-
+<div align="center">
+  <img src="https://github.com/nqhieuu/RTL8720DN-Demonic/blob/main/IMG_1.jpeg" alt="RTL8720DN-Demonic-1">
+</div>
 ## **Giới Thiệu**
 Dự án này là một thiết bị có khả năng can thiệp và làm ngắt kết nối WiFi trong băng tần 2.4GHz và 5Ghz. Thiết bị này được phát triển với mục đích nghiên cứu và giáo dục, giúp hiểu rõ hơn về cách hoạt động của các mạng không dây và bảo mật.
 
@@ -53,7 +55,7 @@ Thiết bị ngắt kết nối WiFi hoạt động bằng cách phát ra tín h
 - **Attack** tấn công
 
 <div align="center">
-  <img src="https://github.com/nqhieuu/RTL8720DN-Demonic/blob/main/IMG_1.jpeg" alt="RTL8720DN-Demonic" width="600" height="400">
+  <img src="https://github.com/nqhieuu/RTL8720DN-Demonic/blob/main/IMG_2.jpeg" alt="RTL8720DN-Demonic-2" width="600" height="400">
 </div>
 
 ## **Góp Ý và Phát Triển**
